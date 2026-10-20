@@ -17,3 +17,4 @@
 - [遗赠扶养实践增多，养老财产处置新模式](https://github.com/ellasmith30/HjmgHg/commit/41a87af748a4de10a4a542d85a8940a4ac41517f)
 - [AI普及带来岗位冲击，普通人如何应对转型](https://github.com/ellasmith30/HjmgHg/commit/4063fdfe6cfc53486915f5b38fcc3b99a62242c0)
 - [AI改写开源代码，修改之后是否属于衍生作品](https://github.com/ellasmith30/HjmgHg/commit/4ac8b39629b9e5f489c03c91246ea16f12757eab)
+- [存款利率下行持续银行存款产品收益继续走低](https://github.com/ellasmith30/HjmgHg/commit/361df959542a2db3205ed0265c15df2f4766a9d7)
