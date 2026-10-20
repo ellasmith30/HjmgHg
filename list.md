@@ -169,3 +169,4 @@
 - [股票做市标的持续扩容小盘股流动性改善实际效果](https://github.com/ellasmith30/HjmgHg/commit/338f16c9890fcf8b998d899ff15be627e4edb85a)
 - [GitHub 开源项目文档增加实际业务落地案例参考](https://github.com/ellasmith30/HjmgHg/commit/1599523a16c16ae384d266b5df8fb4f83aa1dee9)
 - [ssh公钥格式标准化工具，修复ssh公钥换行空格错乱格式](https://github.com/ellasmith30/HjmgHg/commit/aa0539bb42ed111e7ed216c923273c5225e34ab4)
+- [sql 预编译防注入开源仓库 完整源码预编译防止 sql 注入示例](https://github.com/ellasmith30/HjmgHg/commit/9f041f2d3f4ae84875ef60c970210c89dd2aa899)
