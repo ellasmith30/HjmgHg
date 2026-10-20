@@ -20,3 +20,4 @@
 - [存款利率下行持续银行存款产品收益继续走低](https://github.com/ellasmith30/HjmgHg/commit/361df959542a2db3205ed0265c15df2f4766a9d7)
 - [熔断器统计窗口开源仓库 完整源码滑动窗口错误统计](https://github.com/ellasmith30/HjmgHg/commit/9eb42b67078276ae23e1e737349f30ca378e526d)
 - [生成式AI上线伦理审查流程，风险评估清单](https://github.com/ellasmith30/HjmgHg/commit/25bdaf67ad9ab65c510e99871eec2db016eea481)
+- [轻量高性能消息队列开源库 源码开放附带配置参数详解](https://github.com/ellasmith30/HjmgHg/commit/379243167cc7d3f3f88eb7e9cb810987487c3a17)
