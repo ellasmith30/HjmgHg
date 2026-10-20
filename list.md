@@ -96,3 +96,4 @@
 - [kafka topic配置批量导出，导出topic分区副本配置](https://github.com/ellasmith30/HjmgHg/commit/bfe43be0d56e09c66a79951940ebef3c84664a1d)
 - [出租出借银行卡承担什么法律后果切勿贪图小利](https://github.com/ellasmith30/HjmgHg/commit/e85d905ac7f649e753083c4412a88e280db39d03)
 - [全球产业链竞争，企业需要持续提升核心竞争力](https://github.com/ellasmith30/HjmgHg/commit/ae32370cf41bd70db1760cf97a63cc042139903a)
+- [数字化转型，一部分人受益一部分人被淘汰](https://github.com/ellasmith30/HjmgHg/commit/990a667e37e1f9d7c29e38187432cfc91fc1d67a)
