@@ -11,3 +11,4 @@
 - [可移植开源功能组件库 源码资源含跨环境测试演示工程](https://github.com/ellasmith30/HjmgHg/commit/d3c174c4e614c68b295432e61cded92af8724493)
 - [AI可解释业务落地，业务人员可读推理链路](https://github.com/ellasmith30/HjmgHg/commit/e45d5cce6d647857fdb2ffde31eec7432376297d)
 - [K8s多集群联邦，跨地域AI任务统一调度难点](https://github.com/ellasmith30/HjmgHg/commit/99df35c739f2932ac8f8ce4188a63bff09192d0f)
+- [产业园区的招商引资，如何防止重数量轻质量的问题](https://github.com/ellasmith30/HjmgHg/commit/691e7b507c9cb810cb87a81942332b2eaf892a17)
