@@ -186,3 +186,4 @@
 - [GitHub 日志演示开源源码库 项目案例配套多环境适配文档](https://github.com/ellasmith30/HjmgHg/commit/e1f7f5f0aa7fbf3ea96a9be8c4bb4f0184b7713a)
 - [大模型驱动自动化压测，自动构造异常业务场景](https://github.com/ellasmith30/HjmgHg/commit/d184647b7d0c543e2633f2567726d0d04324b22c)
 - [markdown内部链接修复工具，批量修正文档内部相对链接](https://github.com/ellasmith30/HjmgHg/commit/853304b2c14fd42854966877e639d7e398576cfb)
+- [微短剧风口逐渐消退，新人进场很难分羹](https://github.com/ellasmith30/HjmgHg/commit/4c3a9a68bd1be354f7e72c8f40f18e2821bf8197)
