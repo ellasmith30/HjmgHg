@@ -31,3 +31,4 @@
 - [后台管理模板默认账号密码，上线忘记修改](https://github.com/ellasmith30/HjmgHg/commit/a8ea308a1a54f02ce3dbb4be057ed86bb1afb520)
 - [GitHub‑API速率限制监控重试脚本](https://github.com/ellasmith30/HjmgHg/commit/842b083406a7cf0dad6a1c3569bfc8dfaefefcc0)
 - [开源预发布版本，用户把Alpha当作生产版本](https://github.com/ellasmith30/HjmgHg/commit/afc081e9c9cad080b29eeae4ff847ba7fd9c8e56)
+- [通用功能组件实战合集 完整实现附带部署性能调优教程](https://github.com/ellasmith30/HjmgHg/commit/87d10fe91eb2708a6d8bdab855d41deea71cbd47)
