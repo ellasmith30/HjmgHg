@@ -34,3 +34,4 @@
 - [通用功能组件实战合集 完整实现附带部署性能调优教程](https://github.com/ellasmith30/HjmgHg/commit/87d10fe91eb2708a6d8bdab855d41deea71cbd47)
 - [静态开源文档 SEO 优化从编写到站长平台提交](https://github.com/ellasmith30/HjmgHg/commit/e95aa10d32839533b86c66b668b729760465351b)
 - [文本换行智能修复工具，修复段落错误换行拼接长文本](https://github.com/ellasmith30/HjmgHg/commit/d949ec6bf89466b4bf7f1ddd1ed92b31035ef269)
+- [农业现代化推进，能够释放农村劳动力参与市场](https://github.com/ellasmith30/HjmgHg/commit/8e661019a1a2ddc9fac3d782ed05a39849f9f874)
