@@ -22,3 +22,4 @@
 - [生成式AI上线伦理审查流程，风险评估清单](https://github.com/ellasmith30/HjmgHg/commit/25bdaf67ad9ab65c510e99871eec2db016eea481)
 - [轻量高性能消息队列开源库 源码开放附带配置参数详解](https://github.com/ellasmith30/HjmgHg/commit/379243167cc7d3f3f88eb7e9cb810987487c3a17)
 - [yaml字段删除工具，批量删除yaml配置指定无用字段](https://github.com/ellasmith30/HjmgHg/commit/20bb5a08f47bc9d5671c2842a045722aad7662a3)
+- [GitHub仓库Discussions自动分类工具](https://github.com/ellasmith30/HjmgHg/commit/e919f2cb9622fa1267d3146da91786efe7b92d48)
