@@ -151,3 +151,4 @@
 - [smb共享文件列表导出，导出smb共享完整目录清单](https://github.com/ellasmith30/HjmgHg/commit/4799bc68eb9eb2855b4c5520d8c122fb326100a5)
 - [GitHub 仓库文档避免大量重复模板内容](https://github.com/ellasmith30/HjmgHg/commit/8834d63b5a9327cf2ae0708f492d0ceb6537e4f3)
 - [运维自动化脚本开源合集 完整源码提供容器部署实操](https://github.com/ellasmith30/HjmgHg/commit/eead3c02e268d15a33c06d814df65459e2efefdb)
+- [生态补偿机制下沉，普通民众生态收益获取](https://github.com/ellasmith30/HjmgHg/commit/5daadd8fd4482d1cfae3bac365dae15d26ac0c3a)
