@@ -73,3 +73,4 @@
 - [镜像站点百度有索引但是几乎没有点击优化](https://github.com/ellasmith30/HjmgHg/commit/0db5157ca884553385b1d59910534da1a0504f29)
 - [程序员拿来即用开源项目 全套源码附本地调试完整教程](https://github.com/ellasmith30/HjmgHg/commit/e3ed69f070598d6f1ce6fb60ce7f014a0ffd8d95)
 - [智能农机租赁普及，降低小农户购机门槛](https://github.com/ellasmith30/HjmgHg/commit/cbd6c0c5845a66d9f7cc6ff321fda8bf637e328c)
+- [DPU卸载AI预处理任务，释放GPU有效算力](https://github.com/ellasmith30/HjmgHg/commit/30c65e0bd5bbd8d7146055602db37be55d768df5)
