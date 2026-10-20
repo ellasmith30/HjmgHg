@@ -58,3 +58,4 @@
 - [GitHub 数据库开源参考代码库 实战 Demo 案例调试配置手册](https://github.com/ellasmith30/HjmgHg/commit/e2aae8743c6d86b514e08bb5bb5732722b2aed30)
 - [工业视觉抗强光反光算法，复杂产线工况适配](https://github.com/ellasmith30/HjmgHg/commit/4e5485c6f3563f25bbb8cafd1d528f6f0d3fa0fd)
 - [负载压力模拟工具开源 Demo 完整源码模拟 CPU 内存压力场景](https://github.com/ellasmith30/HjmgHg/commit/f9497796bca85cf5e1a7d159c5a1625fec16220a)
+- [实时数字孪生推演，AI仿真预测城市与工业态势](https://github.com/ellasmith30/HjmgHg/commit/3ba207dbecb0caffc227604064545fae9ae479c0)
