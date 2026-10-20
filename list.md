@@ -12,3 +12,4 @@
 - [AI可解释业务落地，业务人员可读推理链路](https://github.com/ellasmith30/HjmgHg/commit/e45d5cce6d647857fdb2ffde31eec7432376297d)
 - [K8s多集群联邦，跨地域AI任务统一调度难点](https://github.com/ellasmith30/HjmgHg/commit/99df35c739f2932ac8f8ce4188a63bff09192d0f)
 - [产业园区的招商引资，如何防止重数量轻质量的问题](https://github.com/ellasmith30/HjmgHg/commit/691e7b507c9cb810cb87a81942332b2eaf892a17)
+- [视频片段提取合并脚本，按时间戳剪辑拼接多个视频片段](https://github.com/ellasmith30/HjmgHg/commit/3abd162ecf66f7bcbfc9245c5dcf022b0fd3b499)
