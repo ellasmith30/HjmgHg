@@ -33,3 +33,4 @@
 - [开源预发布版本，用户把Alpha当作生产版本](https://github.com/ellasmith30/HjmgHg/commit/afc081e9c9cad080b29eeae4ff847ba7fd9c8e56)
 - [通用功能组件实战合集 完整实现附带部署性能调优教程](https://github.com/ellasmith30/HjmgHg/commit/87d10fe91eb2708a6d8bdab855d41deea71cbd47)
 - [静态开源文档 SEO 优化从编写到站长平台提交](https://github.com/ellasmith30/HjmgHg/commit/e95aa10d32839533b86c66b668b729760465351b)
+- [文本换行智能修复工具，修复段落错误换行拼接长文本](https://github.com/ellasmith30/HjmgHg/commit/d949ec6bf89466b4bf7f1ddd1ed92b31035ef269)
