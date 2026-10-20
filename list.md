@@ -113,3 +113,4 @@
 - [Dependabot无法识别Monorepo，依赖更新匹配失效](https://github.com/ellasmith30/HjmgHg/commit/df6384e9c3a73e2f5d28d7873bca31f3579c3fd8)
 - [github fork仓库上游pr检测，检测fork仓库尚未合入上游提交](https://github.com/ellasmith30/HjmgHg/commit/f4433d2d517aa3040386c68df808dddf7d2d6d2e)
 - [人民币汇率下半年走势展望，内外环境影响汇率运行节奏](https://github.com/ellasmith30/HjmgHg/commit/055b73fbf10f76ad250ab98fbd0c428af9dea7de)
+- [Agent业务审计溯源，完整记录思考链与工具参数](https://github.com/ellasmith30/HjmgHg/commit/aeb8fa400c63417be17f59d9d3855f7f42df5a66)
