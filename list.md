@@ -97,3 +97,4 @@
 - [出租出借银行卡承担什么法律后果切勿贪图小利](https://github.com/ellasmith30/HjmgHg/commit/e85d905ac7f649e753083c4412a88e280db39d03)
 - [全球产业链竞争，企业需要持续提升核心竞争力](https://github.com/ellasmith30/HjmgHg/commit/ae32370cf41bd70db1760cf97a63cc042139903a)
 - [数字化转型，一部分人受益一部分人被淘汰](https://github.com/ellasmith30/HjmgHg/commit/990a667e37e1f9d7c29e38187432cfc91fc1d67a)
+- [数字孪生技术，工业、城市场景落地现实瓶颈](https://github.com/ellasmith30/HjmgHg/commit/f4abb87125f3a9f2a07ae039cffcbae46ca228ec)
