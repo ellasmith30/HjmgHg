@@ -13,3 +13,4 @@
 - [K8s多集群联邦，跨地域AI任务统一调度难点](https://github.com/ellasmith30/HjmgHg/commit/99df35c739f2932ac8f8ce4188a63bff09192d0f)
 - [产业园区的招商引资，如何防止重数量轻质量的问题](https://github.com/ellasmith30/HjmgHg/commit/691e7b507c9cb810cb87a81942332b2eaf892a17)
 - [视频片段提取合并脚本，按时间戳剪辑拼接多个视频片段](https://github.com/ellasmith30/HjmgHg/commit/3abd162ecf66f7bcbfc9245c5dcf022b0fd3b499)
+- [天天教大家资产保值，部分操作反而加速缩水](https://github.com/ellasmith30/HjmgHg/commit/ad842e3a91adeca3a982c4b2c2421e3d2920c41c)
