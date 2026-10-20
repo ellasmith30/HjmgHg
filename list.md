@@ -116,3 +116,4 @@
 - [Agent业务审计溯源，完整记录思考链与工具参数](https://github.com/ellasmith30/HjmgHg/commit/aeb8fa400c63417be17f59d9d3855f7f42df5a66)
 - [终端日志分级色彩源码 完整源码日志级别彩色打印](https://github.com/ellasmith30/HjmgHg/commit/2e341cb495bb7bcd5eaaf628ac3e5bf5b329f436)
 - [医疗大模型临床落地，医疗合规与误诊责任划分](https://github.com/ellasmith30/HjmgHg/commit/da355272cc35cec8c1ace70c3bc5106a545afe43)
+- [模块化业务实战开源项目 源码资源附带二次改造实操](https://github.com/ellasmith30/HjmgHg/commit/e8140ed1d635fddbb013fe7a74291e573462d0ae)
