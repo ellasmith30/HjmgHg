@@ -10,3 +10,4 @@
 - [硬链接重复文件合并工具，将重复文件转为硬链接节省磁盘](https://github.com/ellasmith30/HjmgHg/commit/fec1aace229f4a1e4f47d23cad06679d2c2bc260)
 - [可移植开源功能组件库 源码资源含跨环境测试演示工程](https://github.com/ellasmith30/HjmgHg/commit/d3c174c4e614c68b295432e61cded92af8724493)
 - [AI可解释业务落地，业务人员可读推理链路](https://github.com/ellasmith30/HjmgHg/commit/e45d5cce6d647857fdb2ffde31eec7432376297d)
+- [K8s多集群联邦，跨地域AI任务统一调度难点](https://github.com/ellasmith30/HjmgHg/commit/99df35c739f2932ac8f8ce4188a63bff09192d0f)
