@@ -121,3 +121,4 @@
 - [开源代码参考仓库 完整实现附带部署配置示例](https://github.com/ellasmith30/HjmgHg/commit/2607be58983aae8075d8c06f95df353b3400970f)
 - [极简轻量开源工具源码合集 完整源码搭配业务集成演示](https://github.com/ellasmith30/HjmgHg/commit/c5dd010e4f048b0383405d0a53f2f531c67ab420)
 - [老旧小区改造哪些项目由政府出钱哪些居民自费](https://github.com/ellasmith30/HjmgHg/commit/a05050da385b5293d20b6bc308306715d82d2ce6)
+- [不动产登记便利化，房产过户继承办理简化](https://github.com/ellasmith30/HjmgHg/commit/951f428cf6d68cf559770e9e865d26b71bc62d93)
