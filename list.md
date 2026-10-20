@@ -123,3 +123,4 @@
 - [老旧小区改造哪些项目由政府出钱哪些居民自费](https://github.com/ellasmith30/HjmgHg/commit/a05050da385b5293d20b6bc308306715d82d2ce6)
 - [不动产登记便利化，房产过户继承办理简化](https://github.com/ellasmith30/HjmgHg/commit/951f428cf6d68cf559770e9e865d26b71bc62d93)
 - [开源仓库文档不要全部依赖 AI 生成输出](https://github.com/ellasmith30/HjmgHg/commit/378fbecb39b6f35a734e9d50ff54e20f1c0d0df4)
+- [Agent审计日志建设，完整记录工具调用全链路](https://github.com/ellasmith30/HjmgHg/commit/4a9f368a6d99f00b97f717fcab62af1f09d02408)
