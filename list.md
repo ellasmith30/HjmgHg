@@ -175,3 +175,4 @@
 - [批量文件编码识别 Demo 完整源码自动检测文件编码格式](https://github.com/ellasmith30/HjmgHg/commit/56d6cb150b41ee23156211709bd725a2e0fb7704)
 - [故障演练常态化，企业故障复盘流于形式](https://github.com/ellasmith30/HjmgHg/commit/2528e9fb0c97d0e66d4509e68da098b7811eb262)
 - [eBPF抓取GPU内存行为，防范敏感信息内存窃取](https://github.com/ellasmith30/HjmgHg/commit/1d04f04f6030d5ccd7621c45eb5fd690141aaf85)
+- [社区志愿服务体系建设，邻里互助模式发展](https://github.com/ellasmith30/HjmgHg/commit/63c2791efee595585d5fe3b311be7305e5e4fab2)
