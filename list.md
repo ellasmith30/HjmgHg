@@ -172,3 +172,4 @@
 - [sql 预编译防注入开源仓库 完整源码预编译防止 sql 注入示例](https://github.com/ellasmith30/HjmgHg/commit/9f041f2d3f4ae84875ef60c970210c89dd2aa899)
 - [高质量 GitHub 接口示例开源项目 可复用 Demo 源码与配置实操](https://github.com/ellasmith30/HjmgHg/commit/b19a4960c0f01378ec9774c6c3180805b5af5238)
 - [公共数据开放，便民服务升级与隐私平衡](https://github.com/ellasmith30/HjmgHg/commit/812054b28081ef225ca69287ba7b00488d3539dd)
+- [批量文件编码识别 Demo 完整源码自动检测文件编码格式](https://github.com/ellasmith30/HjmgHg/commit/56d6cb150b41ee23156211709bd725a2e0fb7704)
