@@ -181,3 +181,4 @@
 - [人形机器人虚实迁移Sim‑to‑Real现实鸿沟](https://github.com/ellasmith30/HjmgHg/commit/1d4123dc544de7d427b0152e99a4ba22cf050776)
 - [容器镜像SBOM内置，构建阶段自动生成物料清单](https://github.com/ellasmith30/HjmgHg/commit/ae616bdbffcfca5bc397491ff4daf98b547f9858)
 - [windows wmi查询批量硬件信息导出，wmi读取硬件详细信息输出csv](https://github.com/ellasmith30/HjmgHg/commit/c0e261eb9a8f4d55994d9465845d36d1741c1992)
+- [GitHub仓库Issue批量打标签脚本](https://github.com/ellasmith30/HjmgHg/commit/29d6ee81dedc4f8e5139e08808e8319a04ce21ea)
