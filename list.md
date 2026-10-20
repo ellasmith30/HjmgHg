@@ -24,3 +24,4 @@
 - [yaml字段删除工具，批量删除yaml配置指定无用字段](https://github.com/ellasmith30/HjmgHg/commit/20bb5a08f47bc9d5671c2842a045722aad7662a3)
 - [GitHub仓库Discussions自动分类工具](https://github.com/ellasmith30/HjmgHg/commit/e919f2cb9622fa1267d3146da91786efe7b92d48)
 - [布隆过滤器持久化源码 完整源码布隆过滤器落盘保存加载](https://github.com/ellasmith30/HjmgHg/commit/8cd521eec73b9c0d4dffdc479b4c0a9f025c21df)
+- [临时救助扩围遭遇突发困难如何申请救助](https://github.com/ellasmith30/HjmgHg/commit/ca76624a6f59759f7f6d0333e15b986104d2a13b)
