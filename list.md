@@ -180,3 +180,4 @@
 - [ass字幕时间轴毫秒修正，批量修正字幕毫秒数值错位问题](https://github.com/ellasmith30/HjmgHg/commit/4cb929fba5fa7437c681945cc65da0bca295f29d)
 - [人形机器人虚实迁移Sim‑to‑Real现实鸿沟](https://github.com/ellasmith30/HjmgHg/commit/1d4123dc544de7d427b0152e99a4ba22cf050776)
 - [容器镜像SBOM内置，构建阶段自动生成物料清单](https://github.com/ellasmith30/HjmgHg/commit/ae616bdbffcfca5bc397491ff4daf98b547f9858)
+- [windows wmi查询批量硬件信息导出，wmi读取硬件详细信息输出csv](https://github.com/ellasmith30/HjmgHg/commit/c0e261eb9a8f4d55994d9465845d36d1741c1992)
