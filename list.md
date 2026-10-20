@@ -150,3 +150,4 @@
 - [dns解析超时监控工具，批量监控域名dns解析耗时统计](https://github.com/ellasmith30/HjmgHg/commit/b3bba594b0d440c328d553ecfb80f4dd926cdb88)
 - [smb共享文件列表导出，导出smb共享完整目录清单](https://github.com/ellasmith30/HjmgHg/commit/4799bc68eb9eb2855b4c5520d8c122fb326100a5)
 - [GitHub 仓库文档避免大量重复模板内容](https://github.com/ellasmith30/HjmgHg/commit/8834d63b5a9327cf2ae0708f492d0ceb6537e4f3)
+- [运维自动化脚本开源合集 完整源码提供容器部署实操](https://github.com/ellasmith30/HjmgHg/commit/eead3c02e268d15a33c06d814df65459e2efefdb)
