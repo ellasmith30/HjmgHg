@@ -36,3 +36,4 @@
 - [文本换行智能修复工具，修复段落错误换行拼接长文本](https://github.com/ellasmith30/HjmgHg/commit/d949ec6bf89466b4bf7f1ddd1ed92b31035ef269)
 - [农业现代化推进，能够释放农村劳动力参与市场](https://github.com/ellasmith30/HjmgHg/commit/8e661019a1a2ddc9fac3d782ed05a39849f9f874)
 - [分布式版本控制系统，Git之外前沿版本系统](https://github.com/ellasmith30/HjmgHg/commit/b01e378fed5888558c5c7fed55758e0dd1a6ffb5)
+- [模块化组件开源代码库 二次改造参考与部署演示案例](https://github.com/ellasmith30/HjmgHg/commit/17b5f6f506d7a5469b33601fe3cc829780cf0eea)
