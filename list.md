@@ -103,3 +103,4 @@
 - [运动服饰出海提速国产品牌开拓海外运动消费市场](https://github.com/ellasmith30/HjmgHg/commit/0e7fe1b4730a7b509a674de2d1de8b6b943afa94)
 - [PPI出现回暖迹象，别轻易喊出经济大拐点](https://github.com/ellasmith30/HjmgHg/commit/8f210e06c4eecdba28662831bf6033b57828eb14)
 - [多模态输入安全，图片音频携带恶意提示注入](https://github.com/ellasmith30/HjmgHg/commit/27bd7f15a55dbe3cd3a6ad9983c327bab5992e82)
+- [灵活用工平台监管新规出台平台用工权益保障体系进一步完善](https://github.com/ellasmith30/HjmgHg/commit/1ae8eb8ace1fc50b731ef692209b35811333fb72)
