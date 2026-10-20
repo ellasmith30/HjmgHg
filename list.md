@@ -85,3 +85,4 @@
 - [极简工具脚本开源合集 完整源码适配多场景系统集成](https://github.com/ellasmith30/HjmgHg/commit/8e6cd44e305d9170caa462898d1eb5c9f13c1a90)
 - [csv大数据查询工具，超大csv支持过滤查询无需完整加载](https://github.com/ellasmith30/HjmgHg/commit/0005eea503b189b2547904bfa5de00b3ca8abb43)
 - [个人档案重要性，灵活就业人员档案存放注意事项](https://github.com/ellasmith30/HjmgHg/commit/ca3ceacf59600db35b269dc855fe67344dcdd163)
+- [遗赠扶养协议普及养老财产处置新模式](https://github.com/ellasmith30/HjmgHg/commit/62ba47f4c326fdd063b70a06b3638e244d1f0aef)
