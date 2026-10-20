@@ -54,3 +54,4 @@
 - [生成式AI版权纠纷，普通人使用AI内容风险](https://github.com/ellasmith30/HjmgHg/commit/b35cf1efa17c8990049fd4ddcfc5af936fcfe064)
 - [社区食堂可持续运营，补贴退坡生存考验](https://github.com/ellasmith30/HjmgHg/commit/cc4419d779607c61abca829a280db6c0c71dcf52)
 - [数字平台的发展，既要发挥效率也要平衡劳动者权益](https://github.com/ellasmith30/HjmgHg/commit/28edd8163370f5580760575cda501266abec3089)
+- [解决百度只收录 GitHub 首页子页面不收录问题](https://github.com/ellasmith30/HjmgHg/commit/dba5ff0c412d3594999fea6dd2a7426cb397cdb1)
