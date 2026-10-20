@@ -18,3 +18,4 @@
 - [AI普及带来岗位冲击，普通人如何应对转型](https://github.com/ellasmith30/HjmgHg/commit/4063fdfe6cfc53486915f5b38fcc3b99a62242c0)
 - [AI改写开源代码，修改之后是否属于衍生作品](https://github.com/ellasmith30/HjmgHg/commit/4ac8b39629b9e5f489c03c91246ea16f12757eab)
 - [存款利率下行持续银行存款产品收益继续走低](https://github.com/ellasmith30/HjmgHg/commit/361df959542a2db3205ed0265c15df2f4766a9d7)
+- [熔断器统计窗口开源仓库 完整源码滑动窗口错误统计](https://github.com/ellasmith30/HjmgHg/commit/9eb42b67078276ae23e1e737349f30ca378e526d)
