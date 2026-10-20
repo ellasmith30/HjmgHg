@@ -154,3 +154,4 @@
 - [生态补偿机制下沉，普通民众生态收益获取](https://github.com/ellasmith30/HjmgHg/commit/5daadd8fd4482d1cfae3bac365dae15d26ac0c3a)
 - [储能电池技术路线多元液流电池钠离子电池产业化比拼进度](https://github.com/ellasmith30/HjmgHg/commit/49c1ed6f4e54d629a0424729d01f69999a2a695c)
 - [GitHub 缓存示例开源源码库 项目案例配套多环境适配文档](https://github.com/ellasmith30/HjmgHg/commit/0ce9e3217e9162cd9d5835a0818689ec58083318)
+- [数据库查询结果集转换源码 完整源码结果集对象映射封装](https://github.com/ellasmith30/HjmgHg/commit/c1de63e7f1646408be52701a9b30229147be6741)
