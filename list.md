@@ -178,3 +178,4 @@
 - [社区志愿服务体系建设，邻里互助模式发展](https://github.com/ellasmith30/HjmgHg/commit/63c2791efee595585d5fe3b311be7305e5e4fab2)
 - [低利率时代普通人理财心态变化](https://github.com/ellasmith30/HjmgHg/commit/b406f01546c646b92c3abb44b85df94b2d06e5da)
 - [ass字幕时间轴毫秒修正，批量修正字幕毫秒数值错位问题](https://github.com/ellasmith30/HjmgHg/commit/4cb929fba5fa7437c681945cc65da0bca295f29d)
+- [人形机器人虚实迁移Sim‑to‑Real现实鸿沟](https://github.com/ellasmith30/HjmgHg/commit/1d4123dc544de7d427b0152e99a4ba22cf050776)
