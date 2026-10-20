@@ -61,3 +61,4 @@
 - [实时数字孪生推演，AI仿真预测城市与工业态势](https://github.com/ellasmith30/HjmgHg/commit/3ba207dbecb0caffc227604064545fae9ae479c0)
 - [家庭养老床位推广补贴落地现实难点](https://github.com/ellasmith30/HjmgHg/commit/5cd50eaba3d1d60b5c7114dd57fde2b5eabecdfd)
 - [图片 EXIF 元信息读取 Demo 完整源码读取图片宽高元数据](https://github.com/ellasmith30/HjmgHg/commit/b185da1cc4c8b0d73521d84f6291e02eb78a7065)
+- [批量文件去重 Demo 完整源码基于哈希清理重复文件](https://github.com/ellasmith30/HjmgHg/commit/1fb7f2b8ced519db9958092099b7f09acd5ebddb)
