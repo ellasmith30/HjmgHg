@@ -71,3 +71,4 @@
 - [延迟退休政策展望对不同年龄打工人带来哪些影响](https://github.com/ellasmith30/HjmgHg/commit/5adad65d1932a4741093a9caeec6e5b277efc6cb)
 - [GitHub 公开仓库文档如何触发百度快速抓取](https://github.com/ellasmith30/HjmgHg/commit/2cd7a8bdf394d4996d320abc2fdccf70ef29368d)
 - [镜像站点百度有索引但是几乎没有点击优化](https://github.com/ellasmith30/HjmgHg/commit/0db5157ca884553385b1d59910534da1a0504f29)
+- [程序员拿来即用开源项目 全套源码附本地调试完整教程](https://github.com/ellasmith30/HjmgHg/commit/e3ed69f070598d6f1ce6fb60ce7f014a0ffd8d95)
