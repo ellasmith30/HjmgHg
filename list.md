@@ -131,3 +131,4 @@
 - [公用事业调价听证常态化，民意参与机制](https://github.com/ellasmith30/HjmgHg/commit/750221d5a0c38f84f9c7f64333ff44e319ecfb73)
 - [技术进步可以提高生产效率，但不一定带来更多岗位](https://github.com/ellasmith30/HjmgHg/commit/932908deb13c860a0e3f6eabd6716860b4fdf654)
 - [github仓库commit文件变更详情导出，每次提交变更文件增删行数](https://github.com/ellasmith30/HjmgHg/commit/ed89e4e7df90dd9dc1b0a1461d94308151c1c098)
+- [国际汇率波动，会显著影响外贸企业的经营利润](https://github.com/ellasmith30/HjmgHg/commit/1d7e3417379bce413341e8fa3a2ea2c63603dff6)
