@@ -124,3 +124,4 @@
 - [不动产登记便利化，房产过户继承办理简化](https://github.com/ellasmith30/HjmgHg/commit/951f428cf6d68cf559770e9e865d26b71bc62d93)
 - [开源仓库文档不要全部依赖 AI 生成输出](https://github.com/ellasmith30/HjmgHg/commit/378fbecb39b6f35a734e9d50ff54e20f1c0d0df4)
 - [Agent审计日志建设，完整记录工具调用全链路](https://github.com/ellasmith30/HjmgHg/commit/4a9f368a6d99f00b97f717fcab62af1f09d02408)
+- [消息队列场景开源项目分享 完整源码搭配本地环境排错文档](https://github.com/ellasmith30/HjmgHg/commit/58d1c3a9b3311d11f4aec29c150c38ede152a07b)
