@@ -109,3 +109,4 @@
 - [一键部署开源项目源码 源码资源配套环境初始化指南](https://github.com/ellasmith30/HjmgHg/commit/b139eff658204e99dbcb916a5eaa510242c1186b)
 - [rtsp流sdp描述文本提取导出，提取rtsp会话sdp完整描述信息](https://github.com/ellasmith30/HjmgHg/commit/afad58dafcd6f5ecf911fea9c310c1404f519f62)
 - [pdf图层解析工具，读取pdf图层列表显示隐藏图层](https://github.com/ellasmith30/HjmgHg/commit/419cd7120a1bd1d117fbf85a674b932badaf6a94)
+- [ass字幕元数据解析导出，提取ass字幕script info元数据输出csv](https://github.com/ellasmith30/HjmgHg/commit/deb7a3ec8782096d61efac45db5a0326d2b59e8f)
