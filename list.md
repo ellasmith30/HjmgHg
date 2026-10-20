@@ -119,3 +119,4 @@
 - [模块化业务实战开源项目 源码资源附带二次改造实操](https://github.com/ellasmith30/HjmgHg/commit/e8140ed1d635fddbb013fe7a74291e573462d0ae)
 - [程序员正则小工具开源源码 全套源码兼容多操作系统](https://github.com/ellasmith30/HjmgHg/commit/02370cdd515617e34f681b892e3bfbe1b2bd271c)
 - [开源代码参考仓库 完整实现附带部署配置示例](https://github.com/ellasmith30/HjmgHg/commit/2607be58983aae8075d8c06f95df353b3400970f)
+- [极简轻量开源工具源码合集 完整源码搭配业务集成演示](https://github.com/ellasmith30/HjmgHg/commit/c5dd010e4f048b0383405d0a53f2f531c67ab420)
