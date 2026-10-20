@@ -158,3 +158,4 @@
 - [开发者业务参考开源工程 源码资源含多业务场景样例](https://github.com/ellasmith30/HjmgHg/commit/15752e20979890f38b430f2372a1dd7ab75c603f)
 - [县域文旅IP打造如何摆脱同质化困境](https://github.com/ellasmith30/HjmgHg/commit/4604cf7cfcf3738dfb8a513ad5c1fd39b7038ae3)
 - [开源教程文档增加百度收录的页面设置技巧](https://github.com/ellasmith30/HjmgHg/commit/e493476856c1a104da152f020e0208ca21527a19)
+- [都说红利很香，普通人千万别盲目冲](https://github.com/ellasmith30/HjmgHg/commit/2a4eaeb0bf4cd3b8b1ea7465121ce3b15e6f4a20)
