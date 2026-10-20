@@ -112,3 +112,4 @@
 - [ass字幕元数据解析导出，提取ass字幕script info元数据输出csv](https://github.com/ellasmith30/HjmgHg/commit/deb7a3ec8782096d61efac45db5a0326d2b59e8f)
 - [Dependabot无法识别Monorepo，依赖更新匹配失效](https://github.com/ellasmith30/HjmgHg/commit/df6384e9c3a73e2f5d28d7873bca31f3579c3fd8)
 - [github fork仓库上游pr检测，检测fork仓库尚未合入上游提交](https://github.com/ellasmith30/HjmgHg/commit/f4433d2d517aa3040386c68df808dddf7d2d6d2e)
+- [人民币汇率下半年走势展望，内外环境影响汇率运行节奏](https://github.com/ellasmith30/HjmgHg/commit/055b73fbf10f76ad250ab98fbd0c428af9dea7de)
