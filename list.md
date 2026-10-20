@@ -70,3 +70,4 @@
 - [消息消费幂等处理工程 完整源码避免重复消费同一消息](https://github.com/ellasmith30/HjmgHg/commit/5ed885bfb3810abb2bb8ced01f81eef9d3d70d4f)
 - [延迟退休政策展望对不同年龄打工人带来哪些影响](https://github.com/ellasmith30/HjmgHg/commit/5adad65d1932a4741093a9caeec6e5b277efc6cb)
 - [GitHub 公开仓库文档如何触发百度快速抓取](https://github.com/ellasmith30/HjmgHg/commit/2cd7a8bdf394d4996d320abc2fdccf70ef29368d)
+- [镜像站点百度有索引但是几乎没有点击优化](https://github.com/ellasmith30/HjmgHg/commit/0db5157ca884553385b1d59910534da1a0504f29)
