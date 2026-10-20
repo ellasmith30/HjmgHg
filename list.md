@@ -15,3 +15,4 @@
 - [视频片段提取合并脚本，按时间戳剪辑拼接多个视频片段](https://github.com/ellasmith30/HjmgHg/commit/3abd162ecf66f7bcbfc9245c5dcf022b0fd3b499)
 - [天天教大家资产保值，部分操作反而加速缩水](https://github.com/ellasmith30/HjmgHg/commit/ad842e3a91adeca3a982c4b2c2421e3d2920c41c)
 - [遗赠扶养实践增多，养老财产处置新模式](https://github.com/ellasmith30/HjmgHg/commit/41a87af748a4de10a4a542d85a8940a4ac41517f)
+- [AI普及带来岗位冲击，普通人如何应对转型](https://github.com/ellasmith30/HjmgHg/commit/4063fdfe6cfc53486915f5b38fcc3b99a62242c0)
