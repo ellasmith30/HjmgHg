@@ -153,3 +153,4 @@
 - [运维自动化脚本开源合集 完整源码提供容器部署实操](https://github.com/ellasmith30/HjmgHg/commit/eead3c02e268d15a33c06d814df65459e2efefdb)
 - [生态补偿机制下沉，普通民众生态收益获取](https://github.com/ellasmith30/HjmgHg/commit/5daadd8fd4482d1cfae3bac365dae15d26ac0c3a)
 - [储能电池技术路线多元液流电池钠离子电池产业化比拼进度](https://github.com/ellasmith30/HjmgHg/commit/49c1ed6f4e54d629a0424729d01f69999a2a695c)
+- [GitHub 缓存示例开源源码库 项目案例配套多环境适配文档](https://github.com/ellasmith30/HjmgHg/commit/0ce9e3217e9162cd9d5835a0818689ec58083318)
