@@ -51,3 +51,4 @@
 - [日志脱敏过滤脚本，日志输出时自动掩码身份证手机号](https://github.com/ellasmith30/HjmgHg/commit/11e69fa1ffbab4dd7038330fbd23d3ec475e3d59)
 - [git lfs锁文件批量导出，导出仓库lfs文件锁持有者信息](https://github.com/ellasmith30/HjmgHg/commit/db070627c650ea2e69190e21926ac18c2aa90043)
 - [AI赋能传统制造业，部分场景落地存在水土不服](https://github.com/ellasmith30/HjmgHg/commit/83fb79c6041f717a5e51059dc316b3dfab2615ce)
+- [生成式AI版权纠纷，普通人使用AI内容风险](https://github.com/ellasmith30/HjmgHg/commit/b35cf1efa17c8990049fd4ddcfc5af936fcfe064)
