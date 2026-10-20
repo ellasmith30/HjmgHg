@@ -45,3 +45,4 @@
 - [自然语言生成存储过程，数据库注入防御难点](https://github.com/ellasmith30/HjmgHg/commit/8812e3228bdb06abf84cc8ab818c30d69d3c4f5a)
 - [开源自动化脚本，不同locale环境行为异常](https://github.com/ellasmith30/HjmgHg/commit/e3e726b6d01bb7342c033e4c257eb7b7ac0a51ce)
 - [消费级端侧小模型SLM，手机PC本地化AI体验瓶颈](https://github.com/ellasmith30/HjmgHg/commit/72a8c2a0f00d91d2150808f4815f8e958c3ef7f2)
+- [GitHub 正则自动化开源资源 可运行源码与本地落地实施手册](https://github.com/ellasmith30/HjmgHg/commit/e9093723e56e58ce79d978f80d6febe669b59fa8)
