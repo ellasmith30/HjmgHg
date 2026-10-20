@@ -164,3 +164,4 @@
 - [HuggingFace模型加速下载脚本，国内网络一键拉取权重文件](https://github.com/ellasmith30/HjmgHg/commit/6da82366ed74dd84423800afdba4b517ae4d9308)
 - [社区安宁疗护普及，临终关怀资源供给缺口](https://github.com/ellasmith30/HjmgHg/commit/4dcd723697bf8222e00248f6233f17b7287786b4)
 - [中心化托管风险，平台规则变动仓库随时受限](https://github.com/ellasmith30/HjmgHg/commit/057c6fbd1bbfa1265c603d62dda053198176f0ef)
+- [部分镜像站点只同步代码，丢弃Issue PR评论数据](https://github.com/ellasmith30/HjmgHg/commit/eacfff80165ff6c4a659e97e94f488f684785d51)
