@@ -29,3 +29,4 @@
 - [仓库迁移Gitea/Gitee，PR评论无法完整迁移](https://github.com/ellasmith30/HjmgHg/commit/4044ef51b9bffb6d68a41ae2a7801257bbe99906)
 - [AGPL传染性许可证，企业使用AGPL代码风险](https://github.com/ellasmith30/HjmgHg/commit/f5e2a6dac840c4f9567e39fe14f8a3582b8c6afb)
 - [后台管理模板默认账号密码，上线忘记修改](https://github.com/ellasmith30/HjmgHg/commit/a8ea308a1a54f02ce3dbb4be057ed86bb1afb520)
+- [GitHub‑API速率限制监控重试脚本](https://github.com/ellasmith30/HjmgHg/commit/842b083406a7cf0dad6a1c3569bfc8dfaefefcc0)
