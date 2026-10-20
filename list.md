@@ -49,3 +49,4 @@
 - [轻量级开发脚本仓库 完整代码附详细配置说明](https://github.com/ellasmith30/HjmgHg/commit/5820fe676600132567d201d31b5a6d96e2dde077)
 - [宏观政策传导链条较长，政策效果存在明显时间滞后](https://github.com/ellasmith30/HjmgHg/commit/5f4436483de9ebd657ad4ea6c1c916e2afce6a5c)
 - [日志脱敏过滤脚本，日志输出时自动掩码身份证手机号](https://github.com/ellasmith30/HjmgHg/commit/11e69fa1ffbab4dd7038330fbd23d3ec475e3d59)
+- [git lfs锁文件批量导出，导出仓库lfs文件锁持有者信息](https://github.com/ellasmith30/HjmgHg/commit/db070627c650ea2e69190e21926ac18c2aa90043)
