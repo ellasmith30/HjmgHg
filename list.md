@@ -64,3 +64,4 @@
 - [批量文件去重 Demo 完整源码基于哈希清理重复文件](https://github.com/ellasmith30/HjmgHg/commit/1fb7f2b8ced519db9958092099b7f09acd5ebddb)
 - [ass字幕样式批量复制迁移，把ass字幕样式复制迁移到其他字幕](https://github.com/ellasmith30/HjmgHg/commit/b6bd2b63833f38250622f9e0a6b86ce40535a4dd)
 - [低价旅游团套路揭秘老年低价游消费陷阱识别](https://github.com/ellasmith30/HjmgHg/commit/1dc503f9b935358fd945c42df81c92316e8be6c8)
+- [obsidian插件开发模板，obsidian插件最小可运行模板](https://github.com/ellasmith30/HjmgHg/commit/8f5d0a20b4a8964bd53ada22367a5a813017a809)
