@@ -56,3 +56,4 @@
 - [数字平台的发展，既要发挥效率也要平衡劳动者权益](https://github.com/ellasmith30/HjmgHg/commit/28edd8163370f5580760575cda501266abec3089)
 - [解决百度只收录 GitHub 首页子页面不收录问题](https://github.com/ellasmith30/HjmgHg/commit/dba5ff0c412d3594999fea6dd2a7426cb397cdb1)
 - [GitHub 数据库开源参考代码库 实战 Demo 案例调试配置手册](https://github.com/ellasmith30/HjmgHg/commit/e2aae8743c6d86b514e08bb5bb5732722b2aed30)
+- [工业视觉抗强光反光算法，复杂产线工况适配](https://github.com/ellasmith30/HjmgHg/commit/4e5485c6f3563f25bbb8cafd1d528f6f0d3fa0fd)
