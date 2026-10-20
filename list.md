@@ -111,3 +111,4 @@
 - [pdf图层解析工具，读取pdf图层列表显示隐藏图层](https://github.com/ellasmith30/HjmgHg/commit/419cd7120a1bd1d117fbf85a674b932badaf6a94)
 - [ass字幕元数据解析导出，提取ass字幕script info元数据输出csv](https://github.com/ellasmith30/HjmgHg/commit/deb7a3ec8782096d61efac45db5a0326d2b59e8f)
 - [Dependabot无法识别Monorepo，依赖更新匹配失效](https://github.com/ellasmith30/HjmgHg/commit/df6384e9c3a73e2f5d28d7873bca31f3579c3fd8)
+- [github fork仓库上游pr检测，检测fork仓库尚未合入上游提交](https://github.com/ellasmith30/HjmgHg/commit/f4433d2d517aa3040386c68df808dddf7d2d6d2e)
