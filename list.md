@@ -26,3 +26,4 @@
 - [布隆过滤器持久化源码 完整源码布隆过滤器落盘保存加载](https://github.com/ellasmith30/HjmgHg/commit/8cd521eec73b9c0d4dffdc479b4c0a9f025c21df)
 - [临时救助扩围遭遇突发困难如何申请救助](https://github.com/ellasmith30/HjmgHg/commit/ca76624a6f59759f7f6d0333e15b986104d2a13b)
 - [开源大模型许可协议，商用使用约束边界](https://github.com/ellasmith30/HjmgHg/commit/76e8cac4a72b54713c86c7c69f6f06b3bec84fdb)
+- [仓库迁移Gitea/Gitee，PR评论无法完整迁移](https://github.com/ellasmith30/HjmgHg/commit/4044ef51b9bffb6d68a41ae2a7801257bbe99906)
