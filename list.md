@@ -67,3 +67,4 @@
 - [obsidian插件开发模板，obsidian插件最小可运行模板](https://github.com/ellasmith30/HjmgHg/commit/8f5d0a20b4a8964bd53ada22367a5a813017a809)
 - [多智能体博弈冲突消解，目标不一致任务调度](https://github.com/ellasmith30/HjmgHg/commit/8f4210409bbfd728c17af9669d67bc0c92228c23)
 - [github api剩余配额监控告警，实时监控api rate‑limit剩余额度](https://github.com/ellasmith30/HjmgHg/commit/ab9e795beb356164ed42153735d80da78643894e)
+- [消息消费幂等处理工程 完整源码避免重复消费同一消息](https://github.com/ellasmith30/HjmgHg/commit/5ed885bfb3810abb2bb8ced01f81eef9d3d70d4f)
