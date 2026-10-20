@@ -75,3 +75,4 @@
 - [智能农机租赁普及，降低小农户购机门槛](https://github.com/ellasmith30/HjmgHg/commit/cbd6c0c5845a66d9f7cc6ff321fda8bf637e328c)
 - [DPU卸载AI预处理任务，释放GPU有效算力](https://github.com/ellasmith30/HjmgHg/commit/30c65e0bd5bbd8d7146055602db37be55d768df5)
 - [消息可靠投递工程 完整源码保障消息可靠发送消费](https://github.com/ellasmith30/HjmgHg/commit/1822dfa1def72c9a11d674c0262577760543af44)
+- [双向目录差异同步工具，双向对比两个目录同步增减文件](https://github.com/ellasmith30/HjmgHg/commit/0669579f8940a6e831c00bb8aba5bd7273c60e96)
