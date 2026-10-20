@@ -138,3 +138,4 @@
 - [字符串脱敏屏蔽工程 完整源码隐私信息掩码处理](https://github.com/ellasmith30/HjmgHg/commit/7295dfbeda4d2ca7702cf293896f56443c488567)
 - [家政服务人员摔伤受伤，雇主和家政公司责任区分](https://github.com/ellasmith30/HjmgHg/commit/1f9eb95bf96d249fd506d31b69b40101297d33b7)
 - [开源项目文档加入环境搭建完整实操流程](https://github.com/ellasmith30/HjmgHg/commit/716eb655b27797eb7adf88172d907715d9a01a6f)
+- [静态开源站点设置合理缓存头不阻碍爬虫](https://github.com/ellasmith30/HjmgHg/commit/af0a35c5d54052d3dc7d8d934137bb6cac0dd638)
