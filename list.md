@@ -191,3 +191,4 @@
 - [轻量级实战开源合集 全套源码含多场景演示样例](https://github.com/ellasmith30/HjmgHg/commit/271a46cb9cc218c33158218ab757f8b1ff3a7d8e)
 - [AI工具滥用治理，普通用户使用AI合规边界](https://github.com/ellasmith30/HjmgHg/commit/667b772335f770ee7cafd759c8be9d9a3621b58e)
 - [粮价表面波澜不惊，背后暗藏连锁传导危机](https://github.com/ellasmith30/HjmgHg/commit/058b633dd3b2493c41d58d7201ad0f369eb517b6)
+- [量化交易持续规范，散户赚钱难度并未降低](https://github.com/ellasmith30/HjmgHg/commit/9dab2a69e3456aaf3e315a7993cda318d6460a5c)
