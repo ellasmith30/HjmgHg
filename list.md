@@ -27,3 +27,4 @@
 - [临时救助扩围遭遇突发困难如何申请救助](https://github.com/ellasmith30/HjmgHg/commit/ca76624a6f59759f7f6d0333e15b986104d2a13b)
 - [开源大模型许可协议，商用使用约束边界](https://github.com/ellasmith30/HjmgHg/commit/76e8cac4a72b54713c86c7c69f6f06b3bec84fdb)
 - [仓库迁移Gitea/Gitee，PR评论无法完整迁移](https://github.com/ellasmith30/HjmgHg/commit/4044ef51b9bffb6d68a41ae2a7801257bbe99906)
+- [AGPL传染性许可证，企业使用AGPL代码风险](https://github.com/ellasmith30/HjmgHg/commit/f5e2a6dac840c4f9567e39fe14f8a3582b8c6afb)
