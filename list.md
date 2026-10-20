@@ -100,3 +100,4 @@
 - [数字孪生技术，工业、城市场景落地现实瓶颈](https://github.com/ellasmith30/HjmgHg/commit/f4abb87125f3a9f2a07ae039cffcbae46ca228ec)
 - [简易内存 Redis 模拟源码 完整源码实现基础 kv 过期删除逻辑](https://github.com/ellasmith30/HjmgHg/commit/5df09b1d35f7f79ebf01fb289980e97f21a82fdd)
 - [百度资源平台添加自定义域名镜像站全过程](https://github.com/ellasmith30/HjmgHg/commit/97d5efe816ce427a1b95bfe3622fc67e4f6c964c)
+- [运动服饰出海提速国产品牌开拓海外运动消费市场](https://github.com/ellasmith30/HjmgHg/commit/0e7fe1b4730a7b509a674de2d1de8b6b943afa94)
