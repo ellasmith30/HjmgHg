@@ -189,3 +189,4 @@
 - [微短剧风口逐渐消退，新人进场很难分羹](https://github.com/ellasmith30/HjmgHg/commit/4c3a9a68bd1be354f7e72c8f40f18e2821bf8197)
 - [AI业务数据分类分级，模型、数据集资产标签体系](https://github.com/ellasmith30/HjmgHg/commit/d60f9d7665e842ad2e2b259ccd4ce4823dfa1ebc)
 - [轻量级实战开源合集 全套源码含多场景演示样例](https://github.com/ellasmith30/HjmgHg/commit/271a46cb9cc218c33158218ab757f8b1ff3a7d8e)
+- [AI工具滥用治理，普通用户使用AI合规边界](https://github.com/ellasmith30/HjmgHg/commit/667b772335f770ee7cafd759c8be9d9a3621b58e)
