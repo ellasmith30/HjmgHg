@@ -115,3 +115,4 @@
 - [人民币汇率下半年走势展望，内外环境影响汇率运行节奏](https://github.com/ellasmith30/HjmgHg/commit/055b73fbf10f76ad250ab98fbd0c428af9dea7de)
 - [Agent业务审计溯源，完整记录思考链与工具参数](https://github.com/ellasmith30/HjmgHg/commit/aeb8fa400c63417be17f59d9d3855f7f42df5a66)
 - [终端日志分级色彩源码 完整源码日志级别彩色打印](https://github.com/ellasmith30/HjmgHg/commit/2e341cb495bb7bcd5eaaf628ac3e5bf5b329f436)
+- [医疗大模型临床落地，医疗合规与误诊责任划分](https://github.com/ellasmith30/HjmgHg/commit/da355272cc35cec8c1ace70c3bc5106a545afe43)
