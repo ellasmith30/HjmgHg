@@ -90,3 +90,4 @@
 - [夫妻共同债务界定哪些欠债不需要夫妻共同偿还](https://github.com/ellasmith30/HjmgHg/commit/05eed2ee7a7f64aca3e0f1d545fe8780a2a484bf)
 - [跨设备加密剪贴板同步工具，剪贴历史记录多端同步](https://github.com/ellasmith30/HjmgHg/commit/82e301fcc8be0e10b6aed9658a8bb1c039f72515)
 - [一刻钟便民生活圈迭代社区商业如何转型](https://github.com/ellasmith30/HjmgHg/commit/1de9b89b8f9cdb79965b810a2a46f506acd57656)
+- [普惠金融下沉，如何防范小微借贷引发家庭债务风险](https://github.com/ellasmith30/HjmgHg/commit/d55b3c67817e5a72c1e94d0ca021b7387c2f7b25)
