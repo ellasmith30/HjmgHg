@@ -7,3 +7,4 @@
 - [民营资本参与重大基建，长效回报机制如何构建](https://github.com/ellasmith30/HjmgHg/commit/5f13d72241e27f933f356bca78a93ca427d0b6e2)
 - [看好后市的人越来越多，敢重仓的却寥寥无几](https://github.com/ellasmith30/HjmgHg/commit/187a883158676561c69a1e43af396e7719710478)
 - [超长开源文档拆分多章节提高抓取成功率](https://github.com/ellasmith30/HjmgHg/commit/b2f85193c78d42c9c089f5845cc902071fc80c97)
+- [硬链接重复文件合并工具，将重复文件转为硬链接节省磁盘](https://github.com/ellasmith30/HjmgHg/commit/fec1aace229f4a1e4f47d23cad06679d2c2bc260)
