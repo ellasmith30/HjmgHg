@@ -47,3 +47,4 @@
 - [消费级端侧小模型SLM，手机PC本地化AI体验瓶颈](https://github.com/ellasmith30/HjmgHg/commit/72a8c2a0f00d91d2150808f4815f8e958c3ef7f2)
 - [GitHub 正则自动化开源资源 可运行源码与本地落地实施手册](https://github.com/ellasmith30/HjmgHg/commit/e9093723e56e58ce79d978f80d6febe669b59fa8)
 - [轻量级开发脚本仓库 完整代码附详细配置说明](https://github.com/ellasmith30/HjmgHg/commit/5820fe676600132567d201d31b5a6d96e2dde077)
+- [宏观政策传导链条较长，政策效果存在明显时间滞后](https://github.com/ellasmith30/HjmgHg/commit/5f4436483de9ebd657ad4ea6c1c916e2afce6a5c)
