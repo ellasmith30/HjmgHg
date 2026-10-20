@@ -95,3 +95,4 @@
 - [跳表简易实现 Demo 完整源码跳表数据结构完整逻辑](https://github.com/ellasmith30/HjmgHg/commit/29d766beb8b32f5323d1b9e33d8ac8195564a9fd)
 - [kafka topic配置批量导出，导出topic分区副本配置](https://github.com/ellasmith30/HjmgHg/commit/bfe43be0d56e09c66a79951940ebef3c84664a1d)
 - [出租出借银行卡承担什么法律后果切勿贪图小利](https://github.com/ellasmith30/HjmgHg/commit/e85d905ac7f649e753083c4412a88e280db39d03)
+- [全球产业链竞争，企业需要持续提升核心竞争力](https://github.com/ellasmith30/HjmgHg/commit/ae32370cf41bd70db1760cf97a63cc042139903a)
