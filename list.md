@@ -127,3 +127,4 @@
 - [消息队列场景开源项目分享 完整源码搭配本地环境排错文档](https://github.com/ellasmith30/HjmgHg/commit/58d1c3a9b3311d11f4aec29c150c38ede152a07b)
 - [气候旅居养老产业发展潜在风险](https://github.com/ellasmith30/HjmgHg/commit/58d748f19b1983e369c39b16e7090d4ef2be1e3c)
 - [财报交出超预期答卷，股价却开启下跌行情](https://github.com/ellasmith30/HjmgHg/commit/ab7313c7b5ccd0a51108b5db86108baa55d389dc)
+- [静态站点迁移 Gitee Pages 完整百度收录流程](https://github.com/ellasmith30/HjmgHg/commit/633ff6757d2533e550ea31bcc2e0f5d4ce37d163)
