@@ -199,3 +199,4 @@
 - [创新药炒作热度不减，实现盈利企业寥寥无几](https://github.com/ellasmith30/HjmgHg/commit/a3e68dabc475d06ccfc684fc57ba115fc89f72f6)
 - [劳动生产率提升，是实现居民收入增长的根本源泉](https://github.com/ellasmith30/HjmgHg/commit/2a8a1f0a6c4d6840c1cafd4f7bcf6a5480b4bdbd)
 - [文件批量运维开源工具 完整源码适配多操作系统部署运行](https://github.com/ellasmith30/HjmgHg/commit/5ed5b5a95da6c6cf2430afaeb6a6b586cb0287ec)
+- [高频场景脚本开源合集 分步部署文档与常见报错处理方案](https://github.com/ellasmith30/HjmgHg/commit/e852b737b9e5deb85ce01433cf5e028db16b0c06)
