@@ -129,3 +129,4 @@
 - [财报交出超预期答卷，股价却开启下跌行情](https://github.com/ellasmith30/HjmgHg/commit/ab7313c7b5ccd0a51108b5db86108baa55d389dc)
 - [静态站点迁移 Gitee Pages 完整百度收录流程](https://github.com/ellasmith30/HjmgHg/commit/633ff6757d2533e550ea31bcc2e0f5d4ce37d163)
 - [公用事业调价听证常态化，民意参与机制](https://github.com/ellasmith30/HjmgHg/commit/750221d5a0c38f84f9c7f64333ff44e319ecfb73)
+- [技术进步可以提高生产效率，但不一定带来更多岗位](https://github.com/ellasmith30/HjmgHg/commit/932908deb13c860a0e3f6eabd6716860b4fdf654)
