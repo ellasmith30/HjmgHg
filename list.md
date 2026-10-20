@@ -183,3 +183,4 @@
 - [windows wmi查询批量硬件信息导出，wmi读取硬件详细信息输出csv](https://github.com/ellasmith30/HjmgHg/commit/c0e261eb9a8f4d55994d9465845d36d1741c1992)
 - [GitHub仓库Issue批量打标签脚本](https://github.com/ellasmith30/HjmgHg/commit/29d6ee81dedc4f8e5139e08808e8319a04ce21ea)
 - [jwt aud受众字段批量解析，批量提取jwt受众aud字段内容](https://github.com/ellasmith30/HjmgHg/commit/723e364907da93c97308aef209e66cc6382a210e)
+- [GitHub 日志演示开源源码库 项目案例配套多环境适配文档](https://github.com/ellasmith30/HjmgHg/commit/e1f7f5f0aa7fbf3ea96a9be8c4bb4f0184b7713a)
