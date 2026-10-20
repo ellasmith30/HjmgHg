@@ -92,3 +92,4 @@
 - [一刻钟便民生活圈迭代社区商业如何转型](https://github.com/ellasmith30/HjmgHg/commit/1de9b89b8f9cdb79965b810a2a46f506acd57656)
 - [普惠金融下沉，如何防范小微借贷引发家庭债务风险](https://github.com/ellasmith30/HjmgHg/commit/d55b3c67817e5a72c1e94d0ca021b7387c2f7b25)
 - [都说要顺势而为，普通人顺势往往变成追高](https://github.com/ellasmith30/HjmgHg/commit/23e12079adde0f38f165b788f4af8fa5829fc7d4)
+- [跳表简易实现 Demo 完整源码跳表数据结构完整逻辑](https://github.com/ellasmith30/HjmgHg/commit/29d766beb8b32f5323d1b9e33d8ac8195564a9fd)
