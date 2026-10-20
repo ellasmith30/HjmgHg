@@ -107,3 +107,4 @@
 - [高考评价体系优化，弱化唯分数导向实践](https://github.com/ellasmith30/HjmgHg/commit/c5f78b1bf59caa776c527ddf3c8a86ab5de6e6a9)
 - [老人谨防以房养老骗局，抵押房产养老陷阱识别](https://github.com/ellasmith30/HjmgHg/commit/9636fea21ed8ad7ffa9c0b9682f1d2f3bd18a79b)
 - [一键部署开源项目源码 源码资源配套环境初始化指南](https://github.com/ellasmith30/HjmgHg/commit/b139eff658204e99dbcb916a5eaa510242c1186b)
+- [rtsp流sdp描述文本提取导出，提取rtsp会话sdp完整描述信息](https://github.com/ellasmith30/HjmgHg/commit/afad58dafcd6f5ecf911fea9c310c1404f519f62)
