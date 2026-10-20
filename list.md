@@ -147,3 +147,4 @@
 - [秋冬呼吸道传染病家庭防护科普](https://github.com/ellasmith30/HjmgHg/commit/a4a211fb799fc9135381b0c6218200610e113661)
 - [农村养老金多缴多得，不同缴费档次收益对比](https://github.com/ellasmith30/HjmgHg/commit/12fc617635e10d172390b988c47db170cb2e206e)
 - [submodule嵌套多层，克隆仓库下载依赖异常](https://github.com/ellasmith30/HjmgHg/commit/115b7fdb0cc525958a541a11afb91afdd70d465e)
+- [dns解析超时监控工具，批量监控域名dns解析耗时统计](https://github.com/ellasmith30/HjmgHg/commit/b3bba594b0d440c328d553ecfb80f4dd926cdb88)
