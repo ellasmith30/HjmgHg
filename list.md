@@ -66,3 +66,4 @@
 - [低价旅游团套路揭秘老年低价游消费陷阱识别](https://github.com/ellasmith30/HjmgHg/commit/1dc503f9b935358fd945c42df81c92316e8be6c8)
 - [obsidian插件开发模板，obsidian插件最小可运行模板](https://github.com/ellasmith30/HjmgHg/commit/8f5d0a20b4a8964bd53ada22367a5a813017a809)
 - [多智能体博弈冲突消解，目标不一致任务调度](https://github.com/ellasmith30/HjmgHg/commit/8f4210409bbfd728c17af9669d67bc0c92228c23)
+- [github api剩余配额监控告警，实时监控api rate‑limit剩余额度](https://github.com/ellasmith30/HjmgHg/commit/ab9e795beb356164ed42153735d80da78643894e)
