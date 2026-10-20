@@ -79,3 +79,4 @@
 - [运维研发参考开源工程 源码资源含各类模拟文件样例](https://github.com/ellasmith30/HjmgHg/commit/bd88b7a37a3cb39c36c71bd8918439db976d3265)
 - [网购预付定金，定金与订金退款规则要分清](https://github.com/ellasmith30/HjmgHg/commit/9e31fa22eacd559e4ff894cb6f21482a176a7ef3)
 - [开源数据库实战参考案例 源码开放附带本地调试操作指南](https://github.com/ellasmith30/HjmgHg/commit/d0ef713a3088339da21891cbfb40b3356cd78651)
+- [角色权限控制 Demo 开源仓库 完整源码实现角色权限判断逻辑](https://github.com/ellasmith30/HjmgHg/commit/3a9b5a261b077bd46071dcd67274c8b5866c6f47)
