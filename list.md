@@ -122,3 +122,4 @@
 - [极简轻量开源工具源码合集 完整源码搭配业务集成演示](https://github.com/ellasmith30/HjmgHg/commit/c5dd010e4f048b0383405d0a53f2f531c67ab420)
 - [老旧小区改造哪些项目由政府出钱哪些居民自费](https://github.com/ellasmith30/HjmgHg/commit/a05050da385b5293d20b6bc308306715d82d2ce6)
 - [不动产登记便利化，房产过户继承办理简化](https://github.com/ellasmith30/HjmgHg/commit/951f428cf6d68cf559770e9e865d26b71bc62d93)
+- [开源仓库文档不要全部依赖 AI 生成输出](https://github.com/ellasmith30/HjmgHg/commit/378fbecb39b6f35a734e9d50ff54e20f1c0d0df4)
