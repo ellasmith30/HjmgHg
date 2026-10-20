@@ -9,3 +9,4 @@
 - [超长开源文档拆分多章节提高抓取成功率](https://github.com/ellasmith30/HjmgHg/commit/b2f85193c78d42c9c089f5845cc902071fc80c97)
 - [硬链接重复文件合并工具，将重复文件转为硬链接节省磁盘](https://github.com/ellasmith30/HjmgHg/commit/fec1aace229f4a1e4f47d23cad06679d2c2bc260)
 - [可移植开源功能组件库 源码资源含跨环境测试演示工程](https://github.com/ellasmith30/HjmgHg/commit/d3c174c4e614c68b295432e61cded92af8724493)
+- [AI可解释业务落地，业务人员可读推理链路](https://github.com/ellasmith30/HjmgHg/commit/e45d5cce6d647857fdb2ffde31eec7432376297d)
